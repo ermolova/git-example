@@ -24,4 +24,11 @@ Change the remote URL based on what it says in your GitHub repo.
 Copy the remote URL from your GitHub repository.
 
 'git status': See what the changed files.
+
 'git add -A: Add all changed files to this commit.
+
+'git commit -m "Your commit message here"' : Commit the changed files in to your local repository
+
+'git push' : Push commits from your local repository, to remote repository (github)
+
+Repeat the last four commands whenever you add a feature or fix a bug. The commit message describes the features or bug fix.
