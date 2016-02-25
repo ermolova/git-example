@@ -2,7 +2,7 @@
 
 ##To create a new repository
 
-1. Create pub repository in Github, dont initialize
+1. Create pub repository in Github, dont initialize.
 2. Create a new projcect in cloud 9. Give it the same name (Log in to C9 with same credenials)
 3. In a Cloud 9 terminal:
     
